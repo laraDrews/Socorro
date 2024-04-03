@@ -9,13 +9,6 @@
     margin: 0 auto 6rem;
   }
   
-  .projects ul li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 4rem;
-  }
-  
   .projects ul li.projects__reversed-list {
     flex-direction: row-reverse;
   }
